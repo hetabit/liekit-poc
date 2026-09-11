@@ -219,6 +219,4 @@ LieKit, çok büyük bir proje değil, ancak bizce çok kullanışlı bir fikir.
 
 <br>
 <br>
-<center>
-    <font size="6">Do you LieKit? ♥</font><br>
-</center>
+###Do you LieKit? ♥
